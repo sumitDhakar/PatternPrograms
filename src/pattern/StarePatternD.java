@@ -6,6 +6,7 @@ public static void main(String[] args) {
 		 for(int j=3;j>=i;j--) {
 			 System.out.print(" ");
 		 }
+		//  jwfnjvj kjknwfkvjj
 		 for(int k=1;k<=i;k++) {
 			 System.out.print("*");
 		 }
