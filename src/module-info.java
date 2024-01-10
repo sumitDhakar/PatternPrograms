@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Sumit
+ *
+ */
+module StarPattern {
+}
